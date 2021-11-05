@@ -1,0 +1,30 @@
+@startuml
+class Main {
+  'display the list using overload
+  -display(incomplete, complete)
+  -display(incomplete)
+  -display(complete)
+}
+Main --o List
+
+class List {
+   'functions to add and remove lists
+   +addList(String title, String description, String date)
+   +removeList(List list)
+
+}
+List --o editList
+
+class editList {
+      'edit description and due data in seperate functions
+      +editDescription(List)
+      +editDueDate(List)
+}
+List --o SaveList
+class SaveList {
+    'load and save belong together
+    +saveList(List list, List user, String path, String name)
+    +loadList(List list, List user, String path, String name)
+}
+
+@enduml
