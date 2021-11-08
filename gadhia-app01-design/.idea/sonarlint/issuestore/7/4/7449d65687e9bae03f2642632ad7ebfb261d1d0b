@@ -1,3 +1,7 @@
 
+T
+java:S1854S">Remove this useless assignment to local variable "openedList".(™ªÿÎ
+E
+java:S1481S"/Remove this unused "openedList" local variable.(™ªÿÎ
 0
 java:S1220""Move this file to a named package.

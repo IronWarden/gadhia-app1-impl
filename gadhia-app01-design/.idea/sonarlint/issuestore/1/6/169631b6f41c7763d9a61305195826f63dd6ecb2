@@ -1,9 +1,0 @@
-
-h
-java:S1172"KRemove these unused method parameters "localEvent", "user", "path", "name".(Ñ‰ ©8Ş²„’Î/
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8²ş¿¦Ë/
-†
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñ‰ ©
-7
-java:S1220""Move this file to a named package.8ÚÓÎõË/

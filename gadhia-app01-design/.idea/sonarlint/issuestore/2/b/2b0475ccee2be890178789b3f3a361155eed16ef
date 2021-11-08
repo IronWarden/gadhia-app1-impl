@@ -1,27 +1,4 @@
 
-S
-java:S1172"=Remove these unused method parameters "list", "user", "edit".(™²·
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8²Ì’Î/
-X
-java:S1172"=Remove these unused method parameters "list", "user", "edit".(£ô£åşÿÿÿÿ
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8ıÌ’Î/
-X
-java:S1172"=Remove these unused method parameters "list", "user", "edit".(‚­Ç¶úÿÿÿÿ
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8­‚Ì’Î/
-b
-java:S1172""ERemove these unused method parameters "localEvent", "user", "number".(êÂ÷8ù±„’Î/
-H
-java:S1168'"+Return an empty collection instead of null.(¥¹ï8É‚Ì’Î/
-†
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™²·
-‹
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£ô£åşÿÿÿÿ
-‹
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚­Ç¶úÿÿÿÿ
-†
-java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êÂ÷
-7
-java:S1220""Move this file to a named package.8÷ª´‘Ì/
+W	java:S110"<This class has 9 parents which is greater than 5 authorized.(î¯´8ç¤çÏ/
+0
+java:S1220""Move this file to a named package.
